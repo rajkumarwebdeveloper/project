@@ -5,4 +5,4 @@ echo "Final Pull request checking asdasdasd
 $a=5;
 $a=+5;
 $a+=5;
-$a+=5;
+$a+=5;$a+=5;
